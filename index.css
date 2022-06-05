@@ -1,0 +1,22 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+.container{
+     background-color: aqua;
+     height: 400px;
+     width: 400px;
+     border-width: 4x solid red;
+     border-radius: 10px;
+     text-align: center;
+     font-weight: 100px;
+     position: relative;
+    top: 128px;
+    left: 506px;
+    border-color: black;
+    border-width: 20px;
+
+}
+.form{
+     margin-top: 50px;
+}
